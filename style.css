@@ -1,0 +1,134 @@
+body
+{
+    background-color: #7f8d7e;
+}
+/* start navbar*/
+
+#head
+{
+    background-color:#140f0e;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    box-shadow: 3px 2px grey;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus
+{
+    background-color: #831212;
+}
+
+.navbar-default .navbar-nav > li > a ,.navbar-default .navbar-brand,.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus
+{
+    color: white;
+}
+#bs-example-navbar-collapse-1
+{
+    float: right;
+}
+.design 
+{
+    margin: 5px;
+    padding-top: 5px;
+    font-size: 20px;
+    font-family: cursive;
+}
+/* end navbar */
+
+h1
+{   
+    text-align: center;
+    color: red;
+    
+}
+.homePage
+{
+    width: auto;
+    position: absolute;
+    left: 600px;
+    top: 100px;
+}
+.success
+{
+    position: absolute;
+    left: 550px;
+    top:200px;
+    padding: 15px;
+    margin: 15px;
+}
+.success a {
+    padding-top: 5px;
+    margin: 10px;
+    
+}
+.success a:hover {
+    color: red;
+    font-size: 40px;
+}
+
+/* start footer */
+.footer
+{
+    padding-top: 30px;
+}
+#foot
+{
+    background-color:#050404;
+    padding: 5px;
+    color: aliceblue;
+}
+#links
+{
+    color: #831212 ;
+    padding: 5px;
+
+}
+a
+{
+    padding: 8px;
+}
+.name
+{
+    color: #831212;
+}
+#End
+{
+    background-color: darkolivegreen;
+    padding-top: 10px;
+}
+
+/* end footer  */
+/* start navbar*/
+
+#head
+{
+    background-color:#140f0e;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    box-shadow: 3px 2px grey;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus
+{
+    background-color: #831212;
+}
+
+.navbar-default .navbar-nav > li > a ,.navbar-default .navbar-brand,.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus
+{
+    color: white;
+}
+#bs-example-navbar-collapse-1
+{
+    float: right;
+}
+.design 
+{
+    margin: 5px;
+    padding-top: 5px;
+    font-size: 20px;
+    font-family: cursive;
+}
+/* end navbar */
